@@ -1,19 +1,23 @@
 <h1 align="center">Hi, I'm Dimas Rachmadika</h1>
 <h3 align="center">A passionate Javascript developer</h3>
-<img align="right" alt="code" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"
+<div align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="code" width="400" align="right" />
+</div>
 
-- 🔭 Awesome Project [Datalytics](https://data-finance-react-sigma.vercel.app/)
+- 🔭 Check out my awesome project [Datalytics](https://data-finance-react-sigma.vercel.app/)
+- 👨‍💻 Explore all of my projects on [GitHub](https://github.com/dimasrdika)
+- 💬 Feel free to ask me about **Javascript**
+- 📫 You can reach me at **dimasrachmadika@gmail.com**
 
-- 👨‍💻 All of my projects are available at [github.com/dimasrdika](github.com/dimasrdika)
+### Connect with Me:
 
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **dimasrachmadika@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dimasrdika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimasrdika" height="30" width="40" /></a>
-<a href="https://instagram.com/dimasrdika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimasrdika" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dimasrdika" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimasrdika" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/dimasrdika" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimasrdika" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
