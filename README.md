@@ -2,7 +2,7 @@
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Banner" width="800" />
 </div>
 
-<h1 align="center">Hi there, I'm Dimas Rachmadika 👋</h1>
+<h1 align="center">hi, I'm Dimas Rachmadika 👋</h1>
 <h3 align="center">Passionate Javascript Developer</h3>
 <div align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="code" width="400" align="right" />
