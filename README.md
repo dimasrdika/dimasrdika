@@ -1,4 +1,4 @@
-<h3 align="left">Hi Im Dimas and I'm a  Javascript Developer.</h3>
+<h3 align="left">Hi Im Dimas and I'm a  Software Enginner.</h3>
 
 ###
 
